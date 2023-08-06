@@ -1,0 +1,7 @@
+2023-08-06 05:33:45.635187 - Initialized conversion of CBT613
+2023-08-06 05:33:45.669593 - Received CBT.V505.FILE613.PDS from FILE613.XMI 
+2023-08-06 05:33:45.671995 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE613.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:33:45.673039 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE613.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:33:45.673910 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE613.PDS, moved to PDS/$$NOTE2
+2023-08-06 05:33:45.674901 - Found @FILE613.txt (text/plain) in CBT.V505.FILE613.PDS, moved to PDS/@FILE613
+2023-08-06 05:33:45.675774 - Found RESQJCL.jcl (text/plain) in CBT.V505.FILE613.PDS, moved to PDS/RESQJCL
