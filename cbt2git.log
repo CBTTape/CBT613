@@ -1,6 +1,6 @@
-2025-04-13 21:11:45.817064 - Received CBT.V508.FILE613.PDS from FILE613.XMI 
-2025-04-13 21:11:45.817854 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:11:45.817937 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/$$NOTE1
-2025-04-13 21:11:45.818001 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/$$NOTE2
-2025-04-13 21:11:45.818061 - Found @FILE613.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/@FILE613
-2025-04-13 21:11:45.818162 - Found RESQJCL.jcl (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/RESQJCL
+2025-04-15 03:56:55.275673 - Received CBT.V508.FILE613.PDS from FILE613.XMI 
+2025-04-15 03:56:55.276994 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/$$$#DATE
+2025-04-15 03:56:55.277184 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/$$NOTE1
+2025-04-15 03:56:55.277350 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/$$NOTE2
+2025-04-15 03:56:55.277643 - Found @FILE613.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/@FILE613
+2025-04-15 03:56:55.278022 - Found RESQJCL.jcl (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/RESQJCL
